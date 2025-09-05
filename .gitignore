@@ -1,0 +1,11 @@
+/data/*
+!/data/README.md
+/artifacts/*
+__pycache__/
+*.pt
+*.ckpt
+.ipynb_checkpoints/
+.wandb/
+mlruns/
+/.venv/
+.DS_Store
